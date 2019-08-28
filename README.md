@@ -1,2 +1,2 @@
 # GameStore
-ASP.NET MVC project with Entity Framework, Ninject and flexible design
+ASP.NET MVC5 project with Entity Framework, Ninject and flexible design
